@@ -1,0 +1,9 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/Colton82/KDSUI.git
+[submodule "api"]
+	path = api
+	url = https://github.com/Colton82/KDSAPI.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Colton82/FakePOS.git
